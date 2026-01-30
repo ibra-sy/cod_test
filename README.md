@@ -384,7 +384,3 @@ Ce projet est un projet académique. Consultez les fichiers de licence pour plus
 - La communauté Django
 
 ---
-
-**Dernière mise à jour** : Décembre 2024
-**Version** : 1.0
-**Statut** : En développement / Tests en cours
